@@ -408,8 +408,8 @@ http://localhost:8080/doc.html
 ### 微信技术交流群：
 | 微信号 | 二维码 |
 | ------ | ------ |
-| xmgocde | ![微信技术交流群1](https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode.png=150x150) |
-| xmgocde88 | ![微信技术交流群2](https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode88.png=150x150) |
+| xmgocde | ![微信技术交流群1](https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode.png) |
+| xmgocde88 | ![微信技术交流群2](https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode88.png) |
 
 ### QQ群：
 ![QQ群](https://github.com/xmgcode88/simple-share/blob/main/images/990035173.png =150x150)
