@@ -358,16 +358,3 @@ http://localhost:8080/doc.html
 
 ---
 
-
-## 📞 联系方式
-
-### 交流群汇总：
-**微信号：xmgcode、xmgcode88**
-
-| xmgcode | xmgcode88 | QQ群 |
-| :---: | :---: | :---: |
-| <img src="https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode.png" width="200" title="微信1：xmgocde"> | <img src="https://github.com/xmgcode88/simple-share/blob/main/images/xmgcode88.png" width="200" title="微信2：xmgocde88"> | <img src="https://github.com/xmgcode88/simple-share/blob/main/images/990035173.png" width="200" title="QQ群二维码"> |
-
-
-
-**© 2025 小码哥. 保留所有权利.**
